@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'afourcad2019_Example' do
+  pod 'afourcad2019', :path => '../'
+
+  target 'afourcad2019_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
