@@ -1,0 +1,22 @@
+{
+  "name": "afourcad2019",
+  "version": "0.1.0",
+  "summary": "A short description of afourcad2019.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/afourcad/afourcad2019",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "afourcad": "fourcade.adri2@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/afourcad/afourcad2019.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "afourcad2019/Classes/**/*"
+}

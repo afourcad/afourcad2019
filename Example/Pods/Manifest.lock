@@ -1,0 +1,16 @@
+PODS:
+  - afourcad2019 (0.1.0)
+
+DEPENDENCIES:
+  - afourcad2019 (from `../`)
+
+EXTERNAL SOURCES:
+  afourcad2019:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  afourcad2019: ea5fe8294091d2b88cf7ba0f4ec6274af05a4f72
+
+PODFILE CHECKSUM: b30da8ea0601ee58635de98c0740b58a9c3a4a89
+
+COCOAPODS: 1.6.1

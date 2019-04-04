@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'afourcad2019'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of afourcad2019.'
+  s.summary          = 'A first pod test creation'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: This CocoaPod provides the ability to go to the holy D09 and succeed it.
                        DESC
 
   s.homepage         = 'https://github.com/afourcad/afourcad2019'
